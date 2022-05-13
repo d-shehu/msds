@@ -1,0 +1,9 @@
+[submodule "special_topics_in_ds/final_project"]
+	path = special_topics_in_ds/final_project
+	url = https://github.com/d-shehu/msds-data-mgmt-team12-finalproject
+[submodule "special_topics_in_ds/mini_project"]
+	path = special_topics_in_ds/mini_project
+	url = git@github.com:d-shehu/msds-data-mgtm-mini-project.git
+[submodule "data_wrangling/final_project"]
+	path = data_wrangling/final_project
+	url = https://github.com/d-shehu/msds-data-wrangling-final-project
